@@ -69,6 +69,3 @@ These segments enable **personalized marketing**, **customer retention strategie
 - Successfully segmented customers into **distinct behavioral groups**.
 - Generated **data-driven insights** for marketing and retention.
 - Built visualizations that clearly communicate cluster differences.
-
-
-## 📁 Project Structure
